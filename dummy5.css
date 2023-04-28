@@ -1,0 +1,22 @@
+#div1{
+    height:280px;
+    width:250px;
+    /* margin-left: 20px; */
+    border: 2px solid black;
+}
+.photo{
+    height:50px;
+    width:50px;
+    border: 2px solid black;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+img{
+    height:50px;
+    width:50px;
+    /* visibility: hidden; */
+}
+.mystyle{
+    visibility: hidden;
+}
